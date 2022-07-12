@@ -55,6 +55,33 @@
   width: 480px;
   height: 460px;
 }
+.info-1 .text h1{
+  margin-top: 60px;
+  font-size: 43px;
+  font-family: inter, sans-serif;
+}
+.info-1 .text .p-1{
+  margin-top: 14px;
+  font-size: 15px;
+  font-family: poppins, sans-serif;
+}
+.info-1 .text .p-2{
+  margin-top: 14px;
+  font-size: 15px;
+  font-family: poppins, sans-serif;
+}
+.info-1 .text a{
+  margin-top: 14px;
+  font-size: px;
+  color: #fff;
+  padding: 12px 14px;
+  display: inline-block;
+  border-radius: 4px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  background-color: #EF233C;
+  font-family: inter, sans-serif;
+}
 .info-1 .img{
   border: 2px solid red;
   width: 456px;
@@ -65,3 +92,4 @@
   width: 456px;
   height: 460px;
 }
+/*----------------------------------------Third_section-----------------------------------------*/
