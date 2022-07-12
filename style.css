@@ -46,10 +46,11 @@
 /*----------------------------------------second_section-----------------------------------------*/
 #second_section{
   background-color: #ffffff;
+  padding: 70px 90px;
 }
 .info-1{
   display: flex;
-  padding: 140px 90px;
+  margin: 80px 0;
   justify-content: space-evenly;
 }
 .info-1 .text{
