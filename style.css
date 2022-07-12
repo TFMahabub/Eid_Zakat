@@ -47,7 +47,7 @@
 .info-1{
   display: flex;
   margin: 140px 90px;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 .info-1 .text{
   border: 2px solid red;
