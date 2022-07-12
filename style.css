@@ -35,11 +35,33 @@
 #Header_section div a{
   display: inline-block;
   margin-top: 15px;
-  padding: 14px 11px;
+  padding: 12px 14px;
   background-color: #EF233C;
   text-decoration: none;
   font-family: inter, sans-serif;
   color: #fff;
   border-radius: 5px;
   letter-spacing: 0.6px;
+}
+/*----------------------------------------second_section-----------------------------------------*/
+.info-1{
+  display: flex;
+  margin: 140px 90px;
+  justify-content: space-around;
+}
+.info-1 .text{
+  border: 2px solid red;
+  box-sizing: border-box;
+  width: 480px;
+  height: 460px;
+}
+.info-1 .img{
+  border: 2px solid red;
+  width: 456px;
+  height: 460px;
+  align-items: left;
+}
+.info-1 .img img{
+  width: 456px;
+  height: 460px;
 }
