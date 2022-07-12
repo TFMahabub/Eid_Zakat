@@ -46,7 +46,7 @@
 /*----------------------------------------second_section-----------------------------------------*/
 #second_section{
   background-color: #ffffff;
-  padding: 70px 90px;
+  padding: 50px 90px 35px;
 }
 .info-1{
   display: flex;
@@ -97,3 +97,23 @@
   height: 460px;
 }
 /*----------------------------------------Third_section-----------------------------------------*/
+#Third_section{
+  margin-top: 90px;
+  /* border: 2px solid #EF233C; */
+}
+#Third_section div h1{
+  width: 490px;
+  font-family: inter, sans-serif;
+  font-size: 43px;
+  margin: 0 auto;
+  text-align: center;
+  /* border: 2px solid #EF233C; */
+}
+#Third_section div p{
+  width: 660px;
+  font-family: poppins, sans-serif;
+  font-size: 15px;
+  text-align: center;
+  margin: 12px auto 0;
+  /* border: 2px solid #EF233C; */
+}
